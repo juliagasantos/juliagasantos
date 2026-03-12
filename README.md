@@ -1,5 +1,5 @@
-## 👩‍💻 Hi, I'm Júlia! 🚀
-💡 Technology student passionate about learning, creating and solving problems with code.
+## Hi, I'm Júlia! 
+Technology student passionate about learning, creating and solving problems with code.
 
 🎓 Studying **Information Technology**  
 🎓 Technical course in **Internet Informatics (Senac)**  
