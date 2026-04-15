@@ -30,27 +30,38 @@ Technology student passionate about learning, creating and solving problems with
 
 ---
 
-### 🛠 Languages & Tools
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<td align="center" width="300" valign="top">
+<br/>
+<p align="center"><strong>Front-End</strong></p>
+<img src="https://skillicons.dev/icons?i=html" height="30"/>
+<img src="https://skillicons.dev/icons?i=css" height="30"/>
+<img src="https://skillicons.dev/icons?i=js" height="30"/>
+<img src="https://skillicons.dev/icons?i=ts" height="30"/>
+<img src="https://skillicons.dev/icons?i=react" height="30"/>
+<img src="https://skillicons.dev/icons?i=angular" height="30"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="30"/>
+<img src="https://skillicons.dev/icons?i=sass" height="30"/>
+<br/><br/>
+</td>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="40"/>
+<td align="center" width="300" valign="top">
+<br/>
+<p align="center"><strong>Back-End</strong></p>
+<img src="https://skillicons.dev/icons?i=nodejs" height="30"/>
+<img src="https://skillicons.dev/icons?i=cs" height="30"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="30"/>
+<br/><br/>
+</td>
 
-</div>
+<td align="center" width="300" valign="top">
+<br/>
+<p align="center"><strong>Tools & Design</strong></p>
+<img src="https://skillicons.dev/icons?i=git" height="30"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="30"/>
+<img src="https://skillicons.dev/icons?i=figma" height="30"/>
+<img src="https://skillicons.dev/icons?i=ps" height="30"/>
+<br/><br/>
+</td>
 
 ---
 
