@@ -52,6 +52,7 @@ Technology student passionate about learning, creating and solving problems with
 <td align="center" width="300" valign="top">
 <br/>
 <p align="center"><strong>Back-End</strong></p>
+  <img src="https://skillicons.dev/icons?i=postgres" height="30"/>
 <img src="https://skillicons.dev/icons?i=nodejs" height="30"/>
 <img src="https://skillicons.dev/icons?i=cs" height="30"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="30"/>
