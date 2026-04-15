@@ -36,6 +36,8 @@ Technology student passionate about learning, creating and solving problems with
 <td align="center" width="300" valign="top">
 <br/>
 <p align="center"><strong>Front-End</strong></p>
+<img src="https://skillicons.dev/icons?i=dotnet" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" height="30"/>
 <img src="https://skillicons.dev/icons?i=html" height="30"/>
 <img src="https://skillicons.dev/icons?i=css" height="30"/>
 <img src="https://skillicons.dev/icons?i=js" height="30"/>
