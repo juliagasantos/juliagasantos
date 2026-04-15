@@ -29,6 +29,9 @@ Technology student passionate about learning, creating and solving problems with
 </div>
 
 ---
+<div align="center">
+<table width="900">
+<tr>
 
 <td align="center" width="300" valign="top">
 <br/>
@@ -62,6 +65,10 @@ Technology student passionate about learning, creating and solving problems with
 <img src="https://skillicons.dev/icons?i=ps" height="30"/>
 <br/><br/>
 </td>
+
+</tr>
+</table>
+</div>
 
 ---
 
