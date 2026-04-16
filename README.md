@@ -97,7 +97,7 @@ Technology student passionate about learning, creating and solving problems with
 </td>
 
 <td>
-<img height="125" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jjeanpedro03&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&v=1"/>
+<img height="125" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juliagasantos&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&v=1"/>
 </td>
 
 </tr>
